@@ -72,33 +72,34 @@ pattern = {
    ],
    'libraries': [
       'pandas',
-      'scikit-learn'
+      'scikit-learn',
+      'Anaconda'
    ]
 }
 
 objct = {
    'name': {
-      'first': 'John',
+      'first': 'Zac',
       'last': 'Doe'
    },
-   'skill_level': 3,
-   'age': 42,
+   'skill_level': 5,
+   'age': 25,
    'gender': 'male',
-   'travelling': True,
+   'travelling': False,
    'degree': {
-      'level': 'Master',
+      'level': 'Bachelors',
       'domain': 'Statistics'
    },
    'prog_langs': [
-      'java',
-      'Python'
+      'java'
    ],
    'frameworks': [
       'Keras',
    ],
    'libraries': [
       'pandas',
-      'statsmodels'
+      'statsmodels',
+      'Anaconda'
    ]
 }
 
